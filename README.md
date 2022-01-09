@@ -7,7 +7,7 @@ I'm scientist, Ph.D and developer. Currently, living in Russia, working at BMSTU
 All publications are posted on [proglib.io](proglib.io).
 * [Numpy, Pandas, matplotlib – необходимый минимум для старта в Machine Learning](https://proglib.io/p/numpy-pandas-matplotlib-neobhodimyy-minimum-dlya-starta-v-machine-learning-2021-06-18)
 * [Введение в машинное обучение: решаем Titanic на платформе Kaggle](https://proglib.io/p/vvedenie-v-mashinnoe-obuchenie-reshaem-titanic-na-platforme-kaggle-2021-08-17)
-* [Изучаем manim. Введение](soon) - [Sources](https://github.com/milssky/manim)
+* [Изучаем manim. Введение](https://proglib.io/p/izuchaem-manim-chast-1-osnovnye-svedeniya-o-biblioteke-dlya-novichkov-2021-11-15) - [Sources](https://github.com/milssky/manim)
 
 ## External platforms and messangers
 * [LinkedIn](https://www.linkedin.com/in/alexey-potapov/)
